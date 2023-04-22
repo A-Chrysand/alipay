@@ -1,0 +1,14 @@
+/venv
+*.pyc
+/.idea
+/.vscode
+/service/log/
+/service/ssl/
+/service/ssl/ca.pem
+/service/ssl/client-cert.pem
+/service/ssl/client-key.pem
+/db/resource
+/db/resource/*.png
+/db/resource/*.jpg
+__pycache__
+
